@@ -1,6 +1,6 @@
 {
     "cep": ["CEP", "Postal Code"],
-    "rua": ["Rua", "Address", "Av/Rua"],
+    "rua": ["Rua", "Address", "Av/Rua", "Rua/ Avenida"],
     "bairro": ["Bairro", "Neighborhood"],
     "cidade": ["Cidade", "City", "cidade"],
     "estado": ["Estado", "State"],
